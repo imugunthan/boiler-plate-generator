@@ -1,5 +1,5 @@
 {
-  "name": "createhtmlproject",
+  "name": "@imugunthanc/createhtmlproject",
   "version": "1.0.0",
   "description": "Creating html project with command line",
   "main": "index.js",
