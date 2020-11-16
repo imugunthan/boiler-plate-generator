@@ -1,6 +1,6 @@
 {
   "name": "@imugunthanc/createhtmlproject",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Creating html project with command line",
   "main": "index.js",
   "bin": "index.js",
