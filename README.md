@@ -3,7 +3,7 @@
 ## Clone Repo
 
 ```
-git clone https://github.com/onlinegurucool/generate-project-node.git
+git clone https://github.com/imugunthan/boiler-plate-generator.git
 ```
 
 ## Install Dependncies 
